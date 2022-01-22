@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_cancel">Mégse</string>
+    <string name="intermediate">Középszint</string>
+    <string name="beginner">Kezdő</string>
+    <string name="advanced">Haladó</string>
+    <string name="custom">Egyéni</string>
+    <string name="exercise_name">Gyakorlat neve:</string>
+    <string name="muscle_group">Izomcsoport:</string>
+    <string name="sets">Sorozat:</string>
+    <string name="reps">Ismétlés:</string>
+    <string name="difficulty">Nehézség:</string>
+    <string name="monday">Hétfő</string>
+    <string name="wednesday">Szerda</string>
+    <string name="tuesday">Kedd</string>
+    <string name="thursday">Csütörtök</string>
+    <string name="friday">Péntek</string>
+    <string name="training_plan">A jelenlegi edzésterved</string>
+    <string name="add_new_exercise">gyakorlat hozzáadása</string>
+    <string name="select_muscle_group">Válassz izomcsoportot</string>
+    <string name="fit2be_slogan">Fit2be: Személyre szabható edzőterv app</string>
+    <string name="current_day">Jelenlegi nap az edzéshez: </string>
+    <string name="workout_difficulty">Válassz edzésterv nehézséget</string>
+    <string name="saturday">Szombat</string>
+    <string name="sunday">Vasárnap</string>
+    <string name="adding_new_exercise">Új gyakorlat hozzáadása</string>
+    <string name="exercises_done">Elvégzett gyakorlatok:</string>
+    <string name="today_s_workout_routine">Mai napi edzésterv</string>
+    <string name="time_remaining">Hátralévő idő:</string>
+    <string name="save_training_plan">Edzésterv mentése</string>
+    <string name="difficulty_info_message">Ebben a szekcióban ki kell választanod az edzéstervedhez a nehézségi fokozatot."
+                        "\nKezdő: ezt a nehézségi fokozatot azon egyéneknek ajánljuk, akiknek még nincsen tapasztalatuk az edzések terén."
+                        "\nKözépszint: ezt a nehézségi fokozatot azon egyéneknek ajánljuk, akik már rendelkeznek valamennyi tapasztalattal az edzés terén."
+                        "\nHaladó: ezt a nehézségi fokozatot azon egyéneknek ajánljuk, akik tapasztaltak az edzés terén."
+                        "\nEgyéni: ezt a nehézségi fokozatot azon egyéneknek ajánljuk, akik meguk szeretnék az edzésterv egészét összeállítani (szakértő egyéneknek ajánlott)."</string>
+    <string name="difficulty_info_title">Edzésterv nehézségi szint információk</string>
+    <string name="saving_info_title">Edzésterv elmentése</string>
+    <string name="saving_info_question">Szeretnéd menteni az összeállított edzésterved?</string>
+    <string name="saving_info_message">Edzésterv mentése sikeresen megtörtént!
+                                        \nMostmár el tudod kezdeni az összeálított edzéstervedet!"</string>
+    <string name="planner_info_title">Edzésterv összeállító információk</string>
+    <string name="training_info_message">Az előbbb kiválasztott nehézségi szint alapján előre elkészítettük neked egy edzésterv (gyakorlat)listát (kivétel ez alól az Egyéni szint, itt te állítod össze az edzéstervedet az alapoktól).
+                        \n\nMódosítani tudod a listát a törléssel (a kuka szimbólumra nyomva), vagy a Gyakorlat Hozzáadása gombokkal.
+                        \n\nHa már elégedett vagy jelenlegi terveddel, el tudod menteni az edzéstervedet az Edzésterv Mentése gombbal.</string>
+    <string name="info_button_yes">Igen</string>
+    <string name="info_button_cancel">Mégse</string>
+    <string name="saving_toast_msg">Az edzésterved mentéséhez nyomj az Edzésterv Mentése gombra!</string>
+    <string name="new_plan_toast_msg">Úgy tűnik már van összeállított edzésterved, törölnöd kell a jelenlegit először egy új összeállításához!</string>
+    <string name="delete_failed_plan_toast_msg">Nincsen jelenleg edzésterved amit törölni tudnál!</string>
+    <string name="delete_plan_info_title">Edzésterved törlése</string>
+    <string name="delete_plan_info_question">Biztos vagy benne, hogy törölni szeretnéd jelenlegi edzésterved?</string>
+    <string name="delete_success_plan_toast_message">Jelenlegi edzésterv sikeresen törölve!</string>
+    <string name="fit2be_info_title">Fit2be Információk</string>
+    <string name="fit2be_info_message">\nÜdvözlünk a Fit2be Alkalmazásban, ahol szabadon össze tudod állítani az edzéstervedet.
+                        "\n\nHa még nem készítetted el az edzéstervedet a '+' gombbal hozzá is kezdhetsz.
+                        "\nÉrezd jól magad egézségesen!</string>
+    <string name="rest_day_info_title">Pihenő nap</string>
+    <string name="rest_day_info_message">Úgy tűnik ezen a napon nincs gyakorlatod. "\nA pihenés szintén fontos az izmaidnak!"</string>
+    <string name="no_workout_plan_info_title">Nincsen edzésterved</string>
+    <string name="no_workout_plan_info_message">Úgy tűnik jelenleg nincs edzésterved.
+                    "\n\nTudsz összeállítani azonban egy újat a '+' gombbal."</string>
+    <string name="muscle_chest">Mellizom</string>
+    <string name="muscle_shoulders">Vállizom</string>
+    <string name="muscle_back">Hátizom</string>
+    <string name="muscle_biceps">Bicepsz</string>
+    <string name="muscle_triceps">Tricepsz</string>
+    <string name="muscle_forearm">Alkar</string>
+    <string name="muscle_calves">Vádli</string>
+    <string name="muscle_abs">Hasizom</string>
+    <string name="muscle_thighs">Combizom</string>
+    <string name="set_timer_title">Időzítő beállítása (percekben)</string>
+    <string name="set_timer_btn_set">Beállít</string>
+    <string name="set_timer_invalid">Helytelen idő bevitel</string>
+    <string name="workout_time_out_message">Edzés ideje lejárt</string>
+    <string name="workout_done_title">Edzés teljesítve</string>
+    <string name="workout_done_message">Gratulálunk!
+                        "\n\nSikeresen teljesítetted a mai napi edzésedet."</string>
+    <string name="button_great">Nagyszerű!</string>
+    <string name="new_muscle_exercise">gyakorlat hozzáadva az edzéstervedhez</string>
+    <string name="unsaved_plan_title">Edzésterv nincs elmentve</string>
+    <string name="unsaved_plan_message">Az edzésterved még nincs elmentve, az eddigi változásaid el fognak veszni.\nEnnek ellenére is kilépsz?</string>
+</resources>

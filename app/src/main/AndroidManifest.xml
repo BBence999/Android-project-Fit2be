@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hu.bme.aut.android.fit2be">
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="Fit2be"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Fit2beTheme">
+        <activity
+            android:name="hu.bme.aut.android.fit2be.activities.DifficultyActivity"
+            android:theme="@style/Theme.Fit2beTheme"
+             />
+        <activity
+            android:name="hu.bme.aut.android.fit2be.activities.MuscleGroupActivity"
+            android:theme="@style/Theme.Fit2beTheme"
+             />
+        <activity
+            android:name="hu.bme.aut.android.fit2be.activities.WorkoutActivity"
+            android:theme="@style/Theme.Fit2beTheme"
+
+            />
+        <activity
+            android:name="hu.bme.aut.android.fit2be.activities.MuscleExerciseListActivity"
+            android:theme="@style/Theme.Fit2beTheme"
+             />
+        <activity
+            android:name="hu.bme.aut.android.fit2be.activities.ExercisesListActivity"
+            android:theme="@style/Theme.Fit2beTheme"
+             />
+        <activity
+            android:name="hu.bme.aut.android.fit2be.activities.MainActivity"
+            android:theme="@style/Theme.Fit2beTheme"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

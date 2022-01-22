@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name" translatable="false">Fit2be</string>
+    <string name="OK" translatable="false">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="beginner">Beginner</string>
+    <string name="advanced">Advanced</string>
+    <string name="custom">Custom</string>
+    <string name="exercise_name">Exercise name:</string>
+    <string name="muscle_group">Muscle group:</string>
+    <string name="sets">Sets:</string>
+    <string name="reps">Reps:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="monday">Monday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="training_plan">Your Current Training Plan</string>
+    <string name="add_new_exercise">Add new exercise</string>
+    <string name="select_muscle_group">Select muscle group</string>
+    <string name="fit2be_slogan">Fit2be: Your Personalized Training App</string>
+    <string name="current_day">Current day for workout: </string>
+    <string name="workout_difficulty">Select the difficulty of the workout</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="adding_new_exercise">Adding new exercise</string>
+    <string name="today_s_workout_routine">Today\'s Workout Routine</string>
+    <string name="time_remaining">Time remaining:</string>
+    <string name="exercises_done">Exercises\ndone:</string>
+    <string name="save_training_plan">Save training plan</string>
+    <string name="time_left" translatable="false">01:30:00</string>
+    <string name="difficulty_info_message">In the section you will need to choose the difficulty of your workout routine."
+                        "\nBeginner: this difficulty is for individuals who has no experience in workout routines."
+                        "\nIntermediate: this difficulty is for individuals who has some experience in workout routines."
+                        "\nAdvanced: this difficulty is for individuals who are experienced in workout routines."
+                        "\nCustom: this difficulty is for individuals who want to create their workout routine on their own (recommended for expert individuals)."</string>
+    <string name="difficulty_info_title">Workout Difficulty Information</string>
+    <string name="saving_info_title">Saving training plan</string>
+    <string name="saving_info_question">Do you want to save and start your training plan?</string>
+    <string name="saving_info_message">Training plan successfully saved!
+                                        \nYou can start your own created training now!"</string>
+    <string name="planner_info_title">Training Planner Information</string>
+    <string name="training_info_message">We have pre-created your Training Plan in the list below by the difficulty you selected earlier (excluding custom mode where you create your plan from the start).
+                        \n\nYou can modify your plan by simply removing or adding new exercises.
+                        \n\nIf you are satisfied by your plan, you can save your plan by pushing the Save Training Plan button.</string>
+    <string name="info_button_yes">Yes</string>
+    <string name="info_button_cancel">Cancel</string>
+    <string name="saving_toast_msg">To save your plan push on the Save Training Plan button!</string>
+    <string name="new_plan_toast_msg">You seem to currently have workout plan, you need to delete the actual one first!</string>
+    <string name="delete_failed_plan_toast_msg">You don\'t have currently workout plan to delete!</string>
+    <string name="delete_plan_info_title">Deleting your current workout plan</string>
+    <string name="delete_plan_info_question">Are you sure you want to delete your current workout plan?</string>
+    <string name="delete_success_plan_toast_message">Current workout plan successfully deleted!</string>
+    <string name="fit2be_info_title">Fit2be Information</string>
+    <string name="fit2be_info_message">\nWelcome to the Fit2be App where you can freely personalize your training plan.
+                        "\n\nIf you haven't created your training plan yet you can start your workout plan by pushing the '+' button on the bottom of the page.
+                        "\nHave fun while being healthy!</string>
+    <string name="rest_day_info_title">Rest Day</string>
+    <string name="rest_day_info_message">It seems this day you do not have exercise to do. "\nResting is also important for your muscles!"</string>
+    <string name="no_workout_plan_info_title">You have no workout plan</string>
+    <string name="no_workout_plan_info_message">It seems you have not made your workout plan yet!
+                    "\n\nYou can create one by pressing the '+' button."</string>
+    <string name="button_ok" translatable="false">OK</string>
+    <string name="muscle_chest">Chest</string>
+    <string name="muscle_shoulders">Shoulders</string>
+    <string name="muscle_back">Back</string>
+    <string name="muscle_biceps">Biceps</string>
+    <string name="muscle_triceps">Triceps</string>
+    <string name="muscle_forearm">Forearm</string>
+    <string name="muscle_calves">Calves</string>
+    <string name="muscle_abs">ABS</string>
+    <string name="muscle_thighs">Thighs</string>
+    <string name="set_timer_title">Set Timer (in minutes)</string>
+    <string name="set_timer_btn_set">Set</string>
+    <string name="set_timer_invalid">Invalid time input</string>
+    <string name="workout_time_out_message">Workout Routine Time Ran Out</string>
+    <string name="workout_done_title">Workout Completed</string>
+    <string name="workout_done_message">\nCongratulations!
+                        "\n\nYou finished your daily workout routine."</string>
+    <string name="button_great">Great!</string>
+    <string name="new_muscle_exercise">added to your training plan</string>
+    <string name="unsaved_plan_title">Workout plan unsaved</string>
+    <string name="unsaved_plan_message">Your workout plan is not saved yet, your changes will be lost.\nDo you want to quit anyway?</string>
+</resources>

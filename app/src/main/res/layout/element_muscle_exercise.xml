@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="3dp"
+    android:orientation="horizontal"
+    android:paddingBottom="3dp"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="3dp"
+    android:background="@drawable/design_exercise_element">
+
+    <ImageView
+        android:id="@+id/ivIcon"
+        android:layout_width="64dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="5dp"
+        android:scaleType="fitXY"
+        tools:src="@drawable/full_bodypart" />
+
+    <LinearLayout
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exercise_name"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/muscle_group"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sets"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/reps"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/difficulty"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="55dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvExerciseName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Exercise name" />
+
+        <TextView
+            android:id="@+id/tvMuscleGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Muscle group" />
+
+        <TextView
+            android:id="@+id/tvSets"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Sets" />
+
+        <TextView
+            android:id="@+id/tvReps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Reps" />
+
+        <TextView
+            android:id="@+id/tvDiff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Difficulty" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/ibAddExercise"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="60dp"
+        android:layout_height="55dp"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="5dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/plus_icon"
+        tools:ignore="RtlHardcoded" />
+
+
+</LinearLayout>
