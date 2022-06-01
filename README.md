@@ -15,7 +15,7 @@ teszi lehetővé az applikáció.
 Az alkalmazás elindítása után, mivel még jelenleg nem rendelkezünk összeállított edzéstervvel, így a "+" gomb megnyomásának segítségével tudunk új edzéstervek közül választani.
 Új edzésterv létrehozása esetén ki választhatjuk az edzésterv nehézségét, melyek a következők: kezdő, újrakezdő, haladó, és egyéni. 
 Miután kiválasztottuk a nehézségi szintet, annak megfelelően egy alapértelmezetten összeállított edzéstervet kapunk.
-Ha meg vagyunk elégedve az edzéstervvel, el is tudjuk menteni, ez követően az alkalmazás egy 4-napos, osztott edzéstervet állít nekünk össze. 
+Ha meg vagyunk elégedve az edzéstervvel, el is tudjuk menteni, ezt követően az alkalmazás egy 4-napos, osztott edzéstervet állít nekünk össze. 
 Abban az esetben, ha nem vagyunk a jelen edzéstervünkkel megelégedve, össze tudjuk az edzésgyakorlatokat magunk is állítani, vagy jelen edzéstervönket kiegészíteni. 
 Az edzésgyakorlatok külön kategóriákba vannak csoportosítva az izomcsoportok alapján. 
 Összeállított és elmentett edzéstervünk a perzesztens adattárolásnak köszönhetően a program újraindítása után sem veszlik el. 
