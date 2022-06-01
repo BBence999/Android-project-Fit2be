@@ -10,7 +10,7 @@ akik szeretnének edzőterembe járni, viszont még nincs tapasztalatuk a súlyz
 terén, valamint azoknak, akiknek már van tapasztalatuk, egy egyéni edzésterv elkészítését 
 teszi lehetővé az applikáció.
 
-**Főbb felhasználói funkciók:**
+**Az alkalmazás főbb felhasználói funkciói:**
 
 Az alkalmazás elindítása után, mivel még jelenleg nem rendelkezünk összeállított edzéstervvel, így a "+" gomb megnyomásának segítségével tudunk új edzéstervek közül választani.
 Új edzésterv létrehozása esetén ki választhatjuk az edzésterv nehézségét, melyek a következők: kezdő, újrakezdő, haladó, és egyéni. 
