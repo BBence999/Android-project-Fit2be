@@ -1,8 +1,8 @@
-Fit2be felhasználói dokumentációja
+**Fit2be felhasználói dokumentációja**
 
-Az alkalmazás elkészítésének motivációja:
+**Az alkalmazás elkészítésének motivációja:**
 
-A Fitter2be egy fitnesz android platformon elérhető alkalmazás, gimnazista korom óta hobbi szinten edzőterembe 
+A Fit2be egy fitnesz android platformon elérhető alkalmazás, gimnazista korom óta hobbi szinten edzőterembe 
 járok, szeretném a saját edzéstervemet összeállítani az applikáció segítségével, valamint azon 
 felhasználóknak, akiknek még nincs tapasztalatuk az edzésterv készítésében, előre elkészített 
 edzésprogramok közül választhatnak. Az alkalmazást azon egyéneknek ajánlom elsősorban, 
@@ -10,7 +10,7 @@ akik szeretnének edzőterembe járni, viszont még nincs tapasztalatuk a súlyz
 terén, valamint azoknak, akiknek már van tapasztalatuk, egy egyéni edzésterv elkészítését 
 teszi lehetővé az applikáció.
 
-Főbb felhasználói funkciók:
+**Főbb felhasználói funkciók:**
 
 Az alkalmazás elindítása után, mivel még jelenleg nem rendelkezünk összeállított edzéstervvel, így a "+" gomb megnyomásának segítségével tudunk új edzéstervek közül választani.
 Új edzésterv létrehozása esetén ki választhatjuk az edzésterv nehézségét, melyek a következők: kezdő, újrakezdő, haladó, és egyéni. 
