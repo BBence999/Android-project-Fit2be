@@ -1,4 +1,4 @@
-Fitter2be dokumentáció
+Fit2be felhasználói dokumentációja
 
 Az alkalmazás elkészítésének motivációja:
 
